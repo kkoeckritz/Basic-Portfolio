@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background-color: yellow;
+    background-image: url("../images/what-the-hex.png");
+    background-repeat: repeat;
+}
+
+.navbar {
+    padding: 0 10%;
+    overflow: auto;
+    vertical-align: middle;
+
+    background-color: white;
+}
+
+.brand {
+    float: left;
+
+    background-color: #4aaaa5;
+}
+
+.brand>h1 {
+    color: white;
+}
+
+.links {
+    float: right;
+}
+
+.content {
+    margin: 10%;
+    padding: 20px;
+    background-color: white;
+}
+
+.content>h1 {
+    color: #4aaaa5;
+}
