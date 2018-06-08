@@ -168,6 +168,7 @@ button {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 18pt;
     background-color: #4aaaa5;
+    line-height: 26pt;
 }
 
 /* applied to contact page-specific classes */
